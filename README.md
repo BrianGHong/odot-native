@@ -16,3 +16,7 @@ https://reactnative.dev/docs/environment-setup (this follows `React Native CLI Q
 - Investigate react-native-vector-icons library
 - Componentize major code chunks
 - Implement state system
+
+## References
+- https://reactnative.dev/docs/layout-props
+- https://github.com/oblador/react-native-vector-icons
